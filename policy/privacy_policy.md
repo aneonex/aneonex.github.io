@@ -45,6 +45,7 @@ We may employ third-party companies and individuals due to the following reasons
 - To provide the App on our behalf
 - To perform App-related services
 - To assist us in analyzing how our App is used.
+
 We want to inform users of this App that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 ## Security
